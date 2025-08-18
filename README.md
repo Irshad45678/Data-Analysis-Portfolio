@@ -5,13 +5,14 @@ I am a Computer Engineering Graduate with a passion for Data Analytics, Data Sci
 This portfolio highlights my ability to analyze data, uncover insights, and build data-driven solutions using industry-standard tools.
 
 🚀 Projects
-🔹 Customer Churn Analysis
+🔹 Customer Churn Analysis (https://github.com/Irshad45678/Portfolio-Projects/tree/main/Projects/Customer%20Churn%20Analysis)
 
 Goal: Identify customers likely to churn and recommend retention strategies.
 
 Tools: Python, Pandas, Scikit-learn, Matplotlib, Seaborn.
 
 Key Skills: Data Cleaning, Feature Engineering, Classification Models, EDA.
+
 
 🔹 Traffic Control System using AI
 
