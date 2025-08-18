@@ -35,7 +35,7 @@ Version Control: Git, GitHub
 
 📬 Contact
 
-LinkedIn: [Shaikh Irshad Ahmed](https://www.linkedin.com/in/shaikh-irshad-ahmed-5b570b2a7/)
+LinkedIn: [@Shaikh Irshad Ahmed](https://www.linkedin.com/in/shaikh-irshad-ahmed-5b570b2a7/)
 
 GitHub: Irshad45678
 
