@@ -1,8 +1,8 @@
 📊 Data Analyst Portfolio
 
-👋 About Me
-[Website]([https://irshad45678.github.io/IrshadPortfolioWebsite.github.io/](https://irshad45678.github.io/IrshadPortfolioWebsite.github.io/)) 
-I am a Computer Engineering Graduate with a passion for Data Analytics, and Business Analytics.
+👋 About Me  
+[Website](https://irshad45678.github.io/IrshadPortfolioWebsite.github.io/)  
+I am a Computer Engineering Graduate with a passion for Data Analytics and Business Analytics.  
 This portfolio highlights my ability to analyze data, uncover insights, and build data-driven solutions using industry-standard tools.
 
 🚀 Projects
