@@ -30,13 +30,13 @@ Goal: Predict industrial equipment failures to enable preventive maintenance.
 
 Tools: Python, Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Seaborn
 
-🔹 [Inventory and Supply Chain Analysis](https://github.com/YourUsername/YourRepoName/tree/main/Projects/Inventory%20and%20Supply%20Chain%20Analysis)
+🔹 [Power BI Project: Inventory & Supply Chain Analysis](https://github.com/Irshad45678/Portfolio-Projects/tree/main/Projects/Inventory-Supply-Chain-Analysis)
 
-Goal: Optimize inventory levels, predict demand, and improve supply chain efficiency.
+Goal: To build a real-time dashboard to monitor key supply chain KPIs, reduce stockouts, and optimize inventory costs.
 
-Tools: Python, SQL, Tableau, Pandas, Scikit-learn.
+Tools: Power BI, Power Query, DAX, Excel.
 
-Key Skills: Data Cleaning, Time Series Analysis, Predictive Modeling, Data Visualization.
+Key Skills: Data Cleaning & Transformation, Data Modeling (Star Schema), Advanced DAX, KPI Visualization.
 
 🛠️ Tools & Skills
 
