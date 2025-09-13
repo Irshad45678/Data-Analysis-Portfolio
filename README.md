@@ -30,13 +30,13 @@ Goal: Predict industrial equipment failures to enable preventive maintenance.
 
 Tools: Python, Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Seaborn
 
-Key Highlights:
+🔹 [Inventory and Supply Chain Analysis](https://github.com/YourUsername/YourRepoName/tree/main/Projects/Inventory%20and%20Supply%20Chain%20Analysis)
 
-Processed >50,000 sensor readings, handling missing values and outliers.
+Goal: Optimize inventory levels, predict demand, and improve supply chain efficiency.
 
-Built XGBoost model achieving 91% accuracy and F1-score 0.88.
+Tools: Python, SQL, Tableau, Pandas, Scikit-learn.
 
-Enabled predictive maintenance, potentially reducing downtime by ~35%.
+Key Skills: Data Cleaning, Time Series Analysis, Predictive Modeling, Data Visualization.
 
 🛠️ Tools & Skills
 
